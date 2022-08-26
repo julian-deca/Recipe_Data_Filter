@@ -1,2 +1,2 @@
 # Recipe_Data_Filter
-Filter for recipeDate.json 
+Filter for recipeData.json 
